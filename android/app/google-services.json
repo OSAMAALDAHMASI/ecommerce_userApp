@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "820102154801",
+    "project_id": "ecommerce-fb319",
+    "storage_bucket": "ecommerce-fb319.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820102154801:android:a15669eabdedff61e1a310",
+        "android_client_info": {
+          "package_name": "com.aldahmasi.ecommerce.ecommerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzav4MiU5N5qe0yyWSUlSlkTzh--M_xtg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
